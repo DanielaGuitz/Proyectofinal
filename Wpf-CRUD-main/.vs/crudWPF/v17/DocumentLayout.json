@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Im\u00E1genes\\Escritorio\\3.cer\u00BA Semestre\\Wpf-CRUD-main\\Wpf-CRUD-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|c:\\users\\hp\\onedrive\\im\u00E1genes\\escritorio\\3.cer\u00BA semestre\\wpf-crud-main\\wpf-crud-main\\crudwpf\\pl\\choosingaction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\pl\\choosingaction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "choosingAction.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Im\u00E1genes\\Escritorio\\3.cer\u00BA Semestre\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\choosingAction.xaml",
+              "RelativeDocumentMoniker": "crudWPF\\PL\\choosingAction.xaml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Im\u00E1genes\\Escritorio\\3.cer\u00BA Semestre\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\choosingAction.xaml",
+              "RelativeToolTip": "crudWPF\\PL\\choosingAction.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T22:10:13.116Z",
+              "EditorCaption": ""
             }
           ]
         }
