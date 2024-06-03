@@ -10,7 +10,7 @@
         ResizeMode="NoResize"
         WindowStyle="None">
 
-    <Grid Background="#9c27b0">
+    <Grid Background="#607D8B">
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
             <RowDefinition Height="400"/>
@@ -26,7 +26,7 @@
         </Grid.ColumnDefinitions>
 
 
-        <Grid Background="#89119d">
+        <Grid Background="#ECF0F1">
             <TextBlock Text="PRODUCTOS"
                        Style="{StaticResource stockFont}"
                        FontSize="30"
@@ -49,8 +49,10 @@
 
             <Grid Margin="25">
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="/resources/tienda.png" 
-                           Stretch="Fill" Width="300" />
+
+                    <Image Source="/resources/Zapatostienda.jpg" Stretch="Fill" Width="300" />
+
+
                 </StackPanel>
             </Grid>
 
@@ -225,7 +227,7 @@
         </Grid>
 
         <Grid Grid.Row="2"
-              Background="#89119d">
+              Background="#37474F">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="350"/>
                 <ColumnDefinition />

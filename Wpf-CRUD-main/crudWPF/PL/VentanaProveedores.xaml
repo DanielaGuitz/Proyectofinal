@@ -9,7 +9,7 @@
         WindowStyle="None"
         ResizeMode="NoResize"
         WindowStartupLocation="CenterScreen">
-    <Grid Background="#9c27b0">
+    <Grid Background="#AEC6CF">
 
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
@@ -18,7 +18,7 @@
             <RowDefinition  Height="40"/>
         </Grid.RowDefinitions>
 
-        <Grid Background="#89119d">
+        <Grid Background="#FFFFBA">
             <TextBlock Text="PROVEEDORES"
                        Style="{StaticResource stockFont}"
                        FontSize="30"
@@ -215,7 +215,7 @@
 
 
         <Grid Grid.Row="3">
-            <Button     Background="#FFF"
+            <Button     Background="#FFFFBA"
                         Height="30"
                         Width="120"
                         HorizontalAlignment="Right"

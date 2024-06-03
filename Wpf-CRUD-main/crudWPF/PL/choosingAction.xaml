@@ -22,7 +22,7 @@
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
 
-        <Grid x:Name="encabezado" Background="#89119d"
+        <Grid x:Name="encabezado" Background="#37474F"
               Grid.ColumnSpan="2">
 
             <Grid.ColumnDefinitions>
@@ -31,7 +31,7 @@
                 <ColumnDefinition />
             </Grid.ColumnDefinitions>
 
-            <TextBlock Text="CONTROL DE TIENDA"
+            <TextBlock Text="CONTROL DE ZAPATOS"
                        Style="{StaticResource stockFont}"
                        FontFamily="/Fonts/#archivo"
                        FontWeight="Black"
@@ -66,10 +66,10 @@
                     Style="{DynamicResource RoundButton}" />
 
         </Grid>
-        
-        
-        
-        <Grid Background="#9c27b0"
+
+
+
+        <Grid Background="#C5CAE9"
               Grid.Row="2"
               Grid.ColumnSpan="2">
         </Grid>
@@ -129,9 +129,13 @@
 
 
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="/resources/products.png" Stretch="Uniform" Height="50" Width="60" />
+                    <Image Source="/resources/shoes_icon.png"     Stretch="Uniform" Height="100" Width="100" />
 
-                    <TextBlock Text="PRODUCTOS" FontSize="25" 
+
+                    
+                   
+
+                    <TextBlock Text="STOCK" FontSize="25" 
                                Style="{StaticResource stockFont}" 
                                VerticalAlignment="Center"
                                Foreground="#ffce00"/>

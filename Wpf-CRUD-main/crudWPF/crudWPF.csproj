@@ -196,5 +196,14 @@
   <ItemGroup>
     <Resource Include="resources\restart.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="resources\shoe_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="resources\shoes_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="resources\Zapatostienda.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

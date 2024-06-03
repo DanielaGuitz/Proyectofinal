@@ -26,12 +26,14 @@ namespace crudWPF.DAL
             return conexion.EjecutarSentencia(SQLComando);
         }
 
+        //Buscarpor ID
         public DataSet BuscarPorID(int id)
         {
             MySqlCommand SQLComando = new MySqlCommand($"SELECT * FROM productos WHERE ID={id}");
             return conexion.EjecutarSentencia(SQLComando);
         }
 
+        //Agregar
         public bool Agregar(productosBLL oProducto)
         {
 
@@ -43,6 +45,7 @@ namespace crudWPF.DAL
             return conexion.execSinRetornoDatos(SQLComando);
         }
 
+        //Eliminar
         public int Eliminar(productosBLL oProductoBLL)
         {
             conexion.execSinRetornoDatos($"DELETE FROM productos WHERE id={oProductoBLL.id}");
@@ -50,6 +53,7 @@ namespace crudWPF.DAL
             return 1;
         }
 
+        //Modificar
         public int Modificar(productosBLL oProductosBLL)
         {
             conexion.execSinRetornoDatos($"UPDATE productos SET nombre='{oProductosBLL.nombre}', " +

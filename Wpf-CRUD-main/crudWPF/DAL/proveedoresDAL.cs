@@ -42,7 +42,7 @@ namespace crudWPF.DAL
             return 1;
         }
 
-
+        //
         public bool Agregar(proveedoresBLL oProveedor)
         {
 

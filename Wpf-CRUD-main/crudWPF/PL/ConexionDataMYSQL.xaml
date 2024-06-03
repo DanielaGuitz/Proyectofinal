@@ -5,16 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:crudWPF.PL"
         mc:Ignorable="d"
-        Title="Conexion a Base de Datos" Height="459.009" Width="500" Background="#0000FF" ResizeMode="NoResize">
+        Title="Conexion a Base de Datos" Height="459.009" Width="500" Background="#B2DFDB" ResizeMode="NoResize">
     <Grid Margin="0,0,0,0">
 
 
         <TextBlock HorizontalAlignment="Center"  TextWrapping="Wrap" Text="INGRESO A LA BASE DE DATOS" 
-                   VerticalAlignment="Top" FontFamily="IMPACT" FontWeight="Light"  Foreground="#ffce00" 
+                   VerticalAlignment="Top" FontFamily="IMPACT" FontWeight="Light"  Foreground="#000" 
                    FontSize="40" Width="474" Margin="10,31,10,0" TextAlignment="Center"/>
         
         <Button x:Name="botonConectar" Content="CONECTAR" HorizontalAlignment="Left" Margin="98,189,0,0" VerticalAlignment="Top" Width="299" Height="135"
-                Style="{DynamicResource RoundButton}" FontFamily="IMPACT" FontSize="20" Background="#006400" BorderBrush="#fff" 
+                Style="{DynamicResource RoundButton}" FontFamily="IMPACT" FontSize="20" Background="#F0F4C3" BorderBrush="#fff" 
                 Foreground="#ffce00" BorderThickness="3" Click="btnConexion" >
             <Button.Effect>
                 <DropShadowEffect/>

@@ -28,7 +28,7 @@ namespace crudWPF.DAL
 
 
 
-        /*INSERT , DELETE, UPDATE de informacion*/
+        //INSERT , DELETE, UPDATE de informacion//
         public bool execSinRetornoDatos(string strComando)
         {
             try

@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|c:\\users\\hp\\downloads\\wpf-crud-main\\wpf-crud-main\\crudwpf\\pl\\ventanaproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\pl\\ventanaproveedores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\pl\\ventanaproveedores.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\pl\\ventanaproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\pl\\ventanaproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|c:\\users\\hp\\downloads\\wpf-crud-main\\wpf-crud-main\\crudwpf\\pl\\ventanaproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\pl\\ventanaproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\pl\\conexiondatamysql.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\pl\\conexiondatamysql.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|c:\\users\\hp\\downloads\\wpf-crud-main\\wpf-crud-main\\crudwpf\\bll\\basebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\bll\\basebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|c:\\users\\hp\\downloads\\wpf-crud-main\\wpf-crud-main\\crudwpf\\dal\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\bll\\productosbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\bll\\productosbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\bll\\proveedoresbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\bll\\proveedoresbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\dal\\productosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\dal\\productosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\dal\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\dal\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\dal\\proveedoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\dal\\proveedoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudwpf\\pl\\choosingaction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2B4973E7-5663-4252-AD6C-D44BCD8F14D8}|crudWPF\\crudWPF.csproj|solutionrelative:crudwpf\\pl\\choosingaction.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +58,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PL\\VentanaProducto.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\VentanaProducto.xaml.cs",
-              "RelativeDocumentMoniker": "crudWPF\\PL\\VentanaProducto.xaml.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\VentanaProducto.xaml.cs",
-              "RelativeToolTip": "crudWPF\\PL\\VentanaProducto.xaml.cs",
-              "ViewState": "AQIAAKkAAAAAAAAAAIAwwNQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:39:07.625Z",
+              "DocumentIndex": 0,
+              "Title": "VentanaProveedores.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\VentanaProveedores.xaml",
+              "RelativeDocumentMoniker": "crudWPF\\PL\\VentanaProveedores.xaml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\VentanaProveedores.xaml",
+              "RelativeToolTip": "crudWPF\\PL\\VentanaProveedores.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T05:16:03.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VentanaProducto.xaml",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\VentanaProducto.xaml",
               "RelativeDocumentMoniker": "crudWPF\\PL\\VentanaProducto.xaml",
               "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\VentanaProducto.xaml",
               "RelativeToolTip": "crudWPF\\PL\\VentanaProducto.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-03T00:38:25.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "conexionsql.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\conexionsql.cs",
-              "RelativeDocumentMoniker": "crudWPF\\DAL\\conexionsql.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\conexionsql.cs",
-              "RelativeToolTip": "crudWPF\\DAL\\conexionsql.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAkwAwAAABvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:18:04.674Z",
+              "WhenOpened": "2024-06-03T05:15:32.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ConexionDataMYSQL.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\ConexionDataMYSQL.xaml",
+              "RelativeDocumentMoniker": "crudWPF\\PL\\ConexionDataMYSQL.xaml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\ConexionDataMYSQL.xaml",
+              "RelativeToolTip": "crudWPF\\PL\\ConexionDataMYSQL.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T05:15:16.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "choosingAction.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\choosingAction.xaml",
+              "RelativeDocumentMoniker": "crudWPF\\PL\\choosingAction.xaml",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\PL\\choosingAction.xaml",
+              "RelativeToolTip": "crudWPF\\PL\\choosingAction.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T05:15:03.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "proveedoresDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\proveedoresDAL.cs",
+              "RelativeDocumentMoniker": "crudWPF\\DAL\\proveedoresDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\proveedoresDAL.cs",
+              "RelativeToolTip": "crudWPF\\DAL\\proveedoresDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:10:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "productosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\productosDAL.cs",
+              "RelativeDocumentMoniker": "crudWPF\\DAL\\productosDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\productosDAL.cs",
+              "RelativeToolTip": "crudWPF\\DAL\\productosDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:01:54.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "conexionsql.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\conexionsql.cs",
+              "RelativeDocumentMoniker": "crudWPF\\DAL\\conexionsql.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\DAL\\conexionsql.cs",
+              "RelativeToolTip": "crudWPF\\DAL\\conexionsql.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwGkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:44:59.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "proveedoresBLL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\BLL\\proveedoresBLL.cs",
+              "RelativeDocumentMoniker": "crudWPF\\BLL\\proveedoresBLL.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\BLL\\proveedoresBLL.cs",
+              "RelativeToolTip": "crudWPF\\BLL\\proveedoresBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:21:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productosBLL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\BLL\\productosBLL.cs",
+              "RelativeDocumentMoniker": "crudWPF\\BLL\\productosBLL.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\BLL\\productosBLL.cs",
+              "RelativeToolTip": "crudWPF\\BLL\\productosBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:20:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "baseBLL.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\BLL\\baseBLL.cs",
               "RelativeDocumentMoniker": "crudWPF\\BLL\\baseBLL.cs",
               "ToolTip": "C:\\Users\\HP\\Downloads\\Wpf-CRUD-main\\Wpf-CRUD-main\\crudWPF\\BLL\\baseBLL.cs",
               "RelativeToolTip": "crudWPF\\BLL\\baseBLL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:17:53.105Z",
+              "WhenOpened": "2024-06-03T04:19:58.384Z",
               "EditorCaption": ""
             }
           ]
